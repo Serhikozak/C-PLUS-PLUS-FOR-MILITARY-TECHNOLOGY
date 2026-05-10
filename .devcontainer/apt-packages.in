@@ -5,7 +5,7 @@ sudo
 tzdata
 ssh
 git
-
+bash-complition
 gcc
 clang
 clangd
